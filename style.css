@@ -1,7 +1,7 @@
 .header {height:196px; background-image: url(toprazer.png);  background-size: 100%; padding:20px; text-align:center; color: yellowgreen; font-family:Comic Sans MS;}
 .left_col {width:100px; height:460px; background-image: url(left.png); background-size: contain;  padding:45px; vertical-align:top; font-family:Comic Sans MS;}
 
-.center_col {background-image: url(bg.png); background-size: cover; padding:15px; color: yellowgreen; vertical-align:top}
+.center_col {background-image: url(bg.png); background-size: cover; padding:25px; color: yellowgreen; vertical-align:top}
 .right_col {width:120px;  padding:16px; background-image: url(right.png); background-size: contain;}
 div {
     color: lime;
